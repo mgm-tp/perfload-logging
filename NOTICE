@@ -4,7 +4,7 @@
 // ------------------------------------------------------------------
 
 mgm perfLoad Logging
-Copyright 2013 mgm technology partners GmbH
+Copyright 2014 mgm technology partners GmbH
 
 From: 'The Apache Software Foundation' (http://www.apache.org/)
   - Commons Lang (http://commons.apache.org/lang/) org.apache.commons:commons-lang3:jar:3.1
