@@ -23,7 +23,7 @@
 		<artifactId>mgm-oss-parent</artifactId>
 		<version>15</version>
 	</parent>
-	<groupId>com.mgmtp.perfload</groupId>
+	<groupId>com.mgmtp.perfload.logging</groupId>
 	<artifactId>perfload-logging</artifactId>
 	<version>4.6.1-SNAPSHOT</version>
 	<name>mgm perfLoad Logging</name>
